@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Solution to Day 1: Data Types HackerRank tutorial.
+ * Solution to Day 1: Data Types.
  * See <a href="https://www.hackerrank.com/challenges/30-data-types/problem">link</a>
  * @author devendiaz
  * @version 1.0
