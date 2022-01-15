@@ -1,5 +1,5 @@
 /**
- * Solution to Day 1: Data Types.
+ * Solution to Day 4: Classes vs. Instances.
  * See <a href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem">link</a>
  * @author devendiaz
  * @version 1.0
