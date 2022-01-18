@@ -4,7 +4,7 @@
 
 *Language: Java*
 
-*IDE: HackerRank in Browser IDE*
+*IDE: Coderunner*
 
 
 ### Solving the problem
@@ -29,3 +29,6 @@ Identify the subtasks! In this instance we were to:
 | Reading from STDIN | `BufferedReader br = new BufferedReader(new InputStreamReader(System.in));`<br>`String line = br.readLine() \\throws IOException`<br><br>`int N = Integer.parseInt(line) \\throws NumberFormatException` | `scanf("%s %d", &line, &N)` |
 | Output to STDOUT | `System.out.println(line)` | `printf("%s",line)` |
 
+### Choosing a language
+
+For testing that is *timed* use a language you know best. While it's good to challenge yourself in a *practice* environment, when time is more important and a specified language is not a requirement, use something you're familiar with to show your ability to solve the problem without syntax interfering.
